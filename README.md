@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Salut ! Je suis un étudiant en informatique passionné par le développement web, mobile et logiciel. J’aime créer des projets concrets, apprendre de nouvelles technologies et améliorer constamment ma façon de coder.<br><br>En ce moment, je travaille sur une application web complète (Vue.js + Node + MongoDB) et une application Android Kotlin. J’adore toucher à tous les domaines : front-end, back-end, bases de données, CI/CD et architecture logicielle.<br><br>Je m’intéresse aussi à l’intégration continue, aux bonnes pratiques Git, à la sécurité des API et à tout ce qui touche au développement moderne.<br><br>Quand je ne code pas, je suis probablement en train de :<br><br>Regarder du football,<br><br>tester du café,<br><br>explorer le pack de 848 mod de Minecraft tnp limitless,<br><br>ou optimiser mon PC jusqu’à ce qu’il me lâche.<br><br>Toujours ouvert aux collaborations, aux défis, et à apprendre encore plus.<br><br>
 
 
